@@ -1,0 +1,72 @@
+[{
+		"product_id": "001",
+		"product_image": "images/1.jpg",
+		"product_title": "Lorem ipsum",
+		"product_price": "259.21 zł",
+		"product_number": "(58375-001)",
+		"product_sizes": ["36", "36,5", "40", "41", "42", "43", "44", "45", "46"]
+	},
+
+	{
+		"product_id": "002",
+		"product_image": "images/2.jpg",
+		"product_title": "Lorem ipsum 22",
+		"product_price": "151.99 zł",
+		"product_number": "(47923-002)",
+		"product_sizes": ["37", "38", "39", "40", "41", "43", "44", "44,5", "45"]
+	},
+
+	{
+		"product_id": "003",
+		"product_image": "images/3.png",
+		"product_title": "Ipsum lorem",
+		"product_price": "199.00 zł",
+		"product_number": "(21345-003)",
+		"product_sizes": ["36", "37", "38", "39", "41", "42", "43", "44", "45"]
+	},
+
+	{
+		"product_id": "004",
+		"product_image": "images/4.jpg",
+		"product_title": "Here comes the sun",
+		"product_price": "99.00 zł",
+		"product_number": "(78392-004)",
+		"product_sizes": ["36", "36,5", "37", "38,5", "42", "42,5", "43", "44", "45"]
+	},
+
+	{
+		"product_id": "005",
+		"product_image": "images/5.jpg",
+		"product_title": "Cheers darling",
+		"product_price": "175.99 zł",
+		"product_number": "(31245-005)",
+		"product_sizes": ["40", "41", "42", "43", "44", "45", "46", "47", "48"]
+	},
+
+	{
+		"product_id": "006",
+		"product_image": "images/6.jpg",
+		"product_title": "Hakuna matata",
+		"product_price": "300.00 zł",
+		"product_number": "(86936-006)",
+		"product_sizes": ["36", "37", "38", "39", "41", "42", "43", "44", "45"]
+	},
+
+	{
+		"product_id": "007",
+		"product_image": "images/7.jpg",
+		"product_title": "The wire",
+		"product_price": "130.99 zł",
+		"product_number": "(728195-007)",
+		"product_sizes": ["37", "38", "39", "40", "41", "43", "44", "44,5", "45"]
+	},
+
+	{
+		"product_id": "008",
+		"product_image": "images/8.jpg",
+		"product_title": "Left and up",
+		"product_price": "212.00 zł",
+		"product_number": "(54812-008)",
+		"product_sizes": ["36", "36,5", "37", "38,5", "42", "42,5", "43", "44", "45"]
+	}
+]
